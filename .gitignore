@@ -54,6 +54,8 @@ node_modules/
 # 프레임워크 런타임 디렉토리
 public/storage/
 
+# Laravel runtime 디렉터리 구조 유지
 storage/framework/views/*.php
 storage/framework/views/.gitkeep
-
+storage/framework/sessions/.gitkeep
+storage/framework/cache/.gitkeep
